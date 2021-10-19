@@ -6,6 +6,9 @@ main:
     url: /knowledge/
   - title: "Life"
     url: /life/
+  - title: "Cat"
+    url: /cat/
+
 # - title: "Publications"
 #   url: /publications/
 

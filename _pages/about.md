@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 ------
-Recently I will write some blogs about computer vision, computer graphics, algorithms, and record my graduate life.
+Recently I will write some blogs about computer vision, computer graphics, algorithms, and record my  life.
 
 My [Github](https://github.com/linlianjiang.github.io) 
-------
+
+
+
 
 News
 ------
+None
 
 
 Research
 ------
-
+None

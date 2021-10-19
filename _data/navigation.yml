@@ -2,6 +2,8 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "Knowledge"
+    url: /knowledge/
   - title: "Life"
     url: /life/
 # - title: "Publications"
